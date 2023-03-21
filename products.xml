@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+<product productId="1">
+    <productName>Fugiat exercitation adipisicing</productName>
+    <inventoryQuantity>43</inventoryQuantity>
+    <shipOnWeekends>true</shipOnWeekends>
+    <maxBusinessDaysToShip>13</maxBusinessDaysToShip>
+</product>
+<product productId="2">
+    <productName>Mollit cupidatat Lorem</productName>
+    <inventoryQuantity>70</inventoryQuantity>
+    <shipOnWeekends>true</shipOnWeekends>
+    <maxBusinessDaysToShip>18</maxBusinessDaysToShip>
+</product>
+<product productId="3">
+    <productName>Non quis sint</productName>
+    <inventoryQuantity>33</inventoryQuantity>
+    <shipOnWeekends>false</shipOnWeekends>
+    <maxBusinessDaysToShip>15</maxBusinessDaysToShip>
+</product>
+<product productId="4">
+    <productName>Voluptate cupidatat non</productName>
+    <inventoryQuantity>52</inventoryQuantity>
+    <shipOnWeekends>false</shipOnWeekends>
+    <maxBusinessDaysToShip>18</maxBusinessDaysToShip>
+</product>
+<product productId="5">
+    <productName>Anim amet occaecat</productName>
+    <inventoryQuantity>39</inventoryQuantity>
+    <shipOnWeekends>true</shipOnWeekends>
+    <maxBusinessDaysToShip>19</maxBusinessDaysToShip>
+</product>
+<product productId="6">
+    <productName>Cillum deserunt elit</productName>
+    <inventoryQuantity>47</inventoryQuantity>
+    <shipOnWeekends>false</shipOnWeekends>
+    <maxBusinessDaysToShip>20</maxBusinessDaysToShip>
+</product>
+<product productId="7">
+    <productName>Adipisicing reprehenderit et</productName>
+    <inventoryQuantity>71</inventoryQuantity>
+    <shipOnWeekends>false</shipOnWeekends>
+    <maxBusinessDaysToShip>15</maxBusinessDaysToShip>
+</product>
+<product productId="8">
+    <productName>Ex mollit laboris</productName>
+    <inventoryQuantity>80</inventoryQuantity>
+    <shipOnWeekends>false</shipOnWeekends>
+    <maxBusinessDaysToShip>15</maxBusinessDaysToShip>
+</product>
+</products>
